@@ -1,2 +1,6 @@
 *.scssc
 .DS_Store
+.vscode
+node_modules
+gulpfile.js
+package.json
