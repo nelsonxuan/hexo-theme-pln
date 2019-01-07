@@ -2,7 +2,7 @@ menu:
   主页: /
   归档: /archives
 
-logo: XXX
+logo: Nelson Here
 
 more:
   友情链接: /links.html
@@ -13,8 +13,8 @@ more:
   关于我: /
 
 about:
-  title: Theme Pln
-  link: https://github.com/gaoryrt/hexo-theme-pln
+  title: Github Page
+  link: https://github.com/nelsonxuan
 
 show_toc_bool: true
 
@@ -31,7 +31,6 @@ valine:
   notify: false # valine mail notify (true/false)
   lang: zh-cn
 
-
 excerpt_num: 120
 
-footer_info: © XXX 20xx-2017
+footer_info: © nelson 2019
